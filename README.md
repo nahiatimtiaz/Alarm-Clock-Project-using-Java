@@ -49,12 +49,11 @@ The program lets the user set a custom alarm time, displays a live countdown, an
 2. Open it in **IntelliJ IDEA** or any Java IDE.
 3. Run `Main.java`.
 4. Enter your desired alarm time and watch the countdown begin!
-
----
+````
 
 ## 🖋️ Author
 
-**Nahiat Imtiaz Nabiha**
+**Nahiat Imtiaz **
 A beginner Java learner exploring hands-on projects to strengthen programming concepts 💫
 
 
